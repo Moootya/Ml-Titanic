@@ -1,6 +1,6 @@
 # Titanic - Machine Learning from Disaster
 
-Постановка задачи на [Kaggle](https://www.kaggle.com/c/titanic/overview)
+## Постановка задачи на [Kaggle](https://www.kaggle.com/c/titanic/overview)
 
 Quick start guide:
 1. git clone https://github.com/Moootya/Ml-Titanic.git
